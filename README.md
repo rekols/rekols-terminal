@@ -1,3 +1,3 @@
 # Edge-Terminal
 
-forked from [edge-desktop/edge-terminal](https://github.com/edge-desktop/edge-terminal)
+This project is a fork of [edge-desktop/edge-terminal](https://github.com/edge-desktop/edge-terminal)
